@@ -9,3 +9,18 @@
 --dark-grey: #B0C4D2;
 --black: #1A171B;
 }
+
+/* 
+font-family: 'IBM Plex Sans', sans-serif;
+font-family: 'IBM Plex Sans Condensed', sans-serif;
+font-family: 'IBM Plex Serif', serif;
+font-family: 'IBM Plex Mono', monospace;
+*/
+
+body {
+  font-family: 'IBM Plex Serif', serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'IBM Plex Sans Condensed', sans-serif;
+}
