@@ -4,6 +4,7 @@
 --base-dark: #B38E68;
 --blue-light: #ADE9FF;
 --blue-dark: #569AB3;
+--light-light-blue: #E0FFE5;
 --light-grey: #F0F4F6;
 --medium-grey: #C4D3DD;
 --dark-grey: #B0C4D2;
@@ -19,7 +20,7 @@ font-family: 'IBM Plex Mono', monospace;
 
 body {
   font-family: 'IBM Plex Serif', serif;
-  background-image: linear-gradient(to right, var(--base-light), #fff);
+  background-image: linear-gradient(to right, var(--base-light), var(--light-light-blue));
 }
 
 h1, h2, h3, h4, h5, h6 {
