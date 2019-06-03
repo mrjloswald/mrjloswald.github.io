@@ -51,11 +51,13 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #announcement {
+  font-family: 'IBM Plex Sans', sans-serif;
   grid-area: announcement;
   background-color: var(--blue-light);
   border: solid 1px var(--base-dark);
   color: var(--black);
   text-align: center;
+  text-transform: uppercase;
 }
 
 #footer {
