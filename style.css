@@ -52,9 +52,10 @@ h1, h2, h3, h4, h5, h6 {
 
 #announcement {
   grid-area: announcement;
-  background-color: var(--medium-grey);
-  border: solid 1px var(--blue-dark);
-  color: var(--blue-light);
+  background-color: var(--blue-light);
+  border: solid 1px var(--base-dark);
+  color: var(--black);
+  text-align: center;
 }
 
 #footer {
