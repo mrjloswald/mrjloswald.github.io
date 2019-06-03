@@ -1,4 +1,5 @@
 :root {
+--base-light-light: #FFF0E0;
 --base-light: #FFE4C7;
 --base-medium: #FFD8AD;
 --base-dark: #B38E68;
@@ -28,7 +29,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .grid-container {
-  background-image: linear-gradient(to right, var(--base-light), #fff, var(--light-light-blue) );
+  background-image: linear-gradient(to right, var(--base-light), #fff, var(--base-light-light) );
   margin: 4% 1% 0% 1%;
   padding: 1%;
   display: grid;
