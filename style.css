@@ -20,10 +20,40 @@ font-family: 'IBM Plex Mono', monospace;
 
 body {
   font-family: 'IBM Plex Serif', serif;
-  background-image: linear-gradient(to right, var(--base-light), #fff, var(--light-light-blue) );
 }
 
 h1, h2, h3, h4, h5, h6 {
   font-family: 'IBM Plex Sans Condensed', sans-serif;
   color: var(--blue-dark);
+}
+
+.grid-container {
+  background-image: linear-gradient(to right, var(--base-light), #fff, var(--light-light-blue) );
+  margin: 4% 1% 0% 1%;
+/*   padding: 1%; */
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+  grid-column-gap: 2px;
+  grid-row-gap: 5px;
+  grid-template-areas:
+    "header . . . ."
+    ". announcement announcement announcement ."
+    "col1 col2 col3 col4 col5"
+    ". . . . footer";
+}
+
+#header {
+  grid-area: header;
+}
+
+#col1 {
+  grid-area: col1;
+}
+
+#announcement {
+  grid-area: announcement;
+}
+
+#footer {
+  grid-area: footer;
 }
