@@ -30,7 +30,7 @@ h1, h2, h3, h4, h5, h6 {
 .grid-container {
   background-image: linear-gradient(to right, var(--base-light), #fff, var(--light-light-blue) );
   margin: 4% 1% 0% 1%;
-/*   padding: 1%; */
+  padding: 1%;
   display: grid;
   grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
   grid-column-gap: 2px;
