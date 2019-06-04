@@ -37,7 +37,7 @@ h1, h2, h3, h4, h5, h6 {
   grid-column-gap: 2px;
   grid-row-gap: 5px;
   grid-template-areas:
-    "header . . "
+    "header . ."
     "announcement announcement announcement"
     "col1 col2 col3"
     ". . footer";
