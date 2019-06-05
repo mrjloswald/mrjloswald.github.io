@@ -2,6 +2,12 @@
 I like reinventing the wheel. It's valueable and reflective and fun. But sometimes, a little structure helps a lot.
 This is a landing zone for thoughts, reflections, ideas, etc. 
 ## Todo for 2019-20
+* Decide on archive format and tool
+* Go Through Google Classroom and Canvas and distill and archive classes into central repository
+  * 6th CS
+  * 7th CS
+  * 9th CS
+  * MAD
 * Plan for 7th Grade CS
   * Create new CT
   * Thinking about structuring code around map, filter, reduce
