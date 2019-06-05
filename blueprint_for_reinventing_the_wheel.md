@@ -3,10 +3,10 @@ I like reinventing the wheel. It's valueable and reflective and fun. But sometim
 This is a landing zone for thoughts, reflections, ideas, etc. 
 ## Todo for 2019-20
 * Plan for 7th Grade CS
-** Create new CT
-** Thinking about structuring code around map, filter, reduce
+  * Create new CT
+  * Thinking about structuring code around map, filter, reduce
 * Plan for 6th Grade CS
-** Polish and update existing CT
+  * Polish and update existing CT
 * Lower/All School CS PD
 * CS Publication
 * Integrator
@@ -37,14 +37,14 @@ This is a landing zone for thoughts, reflections, ideas, etc.
 * https://editor.p5js.org/joswald/sketches/bUmb8636a
 ## 6th Grade Survey Summary
 * Stuff to Learn
-** Games
-** Robotics
-** Different Languages
-** Objects
-** Data Science
-** Apps
-** AI
-** Solving Puzzles
+  * Games
+  * Robotics
+  * Different Languages
+  * Objects
+  * Data Science
+  * Apps
+  * AI
+  * Solving Puzzles
 ## Quotes
 * https://www.cs.cmu.edu/~pattis/quotations.html
 * https://duckduckgo.com/?q=g+booch+the+limits+of+software&atb=v152-5__&ia=videos
