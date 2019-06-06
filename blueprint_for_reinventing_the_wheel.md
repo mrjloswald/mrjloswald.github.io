@@ -30,6 +30,8 @@ This is a landing zone for thoughts, reflections, ideas, etc.
 * https://www.youtube.com/watch?v=ntKn5TPHHAk
 * https://www.youtube.com/watch?v=DGxIcDjPzac 
 * https://editor.p5js.org/joswald/sketches/o6AJL1fF0
+## TypeScript
+* Should we?
 ## General Coding
 * https://shiffman.net/ 
 * https://www.youtube.com/user/shiffman
